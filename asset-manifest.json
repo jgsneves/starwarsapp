@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/starwarsapp/static/css/main.bd941da3.chunk.css",
+    "main.js": "/starwarsapp/static/js/main.eabe5f27.chunk.js",
+    "main.js.map": "/starwarsapp/static/js/main.eabe5f27.chunk.js.map",
+    "runtime-main.js": "/starwarsapp/static/js/runtime-main.62b643c4.js",
+    "runtime-main.js.map": "/starwarsapp/static/js/runtime-main.62b643c4.js.map",
+    "static/css/2.299a5230.chunk.css": "/starwarsapp/static/css/2.299a5230.chunk.css",
+    "static/js/2.2d6e6e8c.chunk.js": "/starwarsapp/static/js/2.2d6e6e8c.chunk.js",
+    "static/js/2.2d6e6e8c.chunk.js.map": "/starwarsapp/static/js/2.2d6e6e8c.chunk.js.map",
+    "index.html": "/starwarsapp/index.html",
+    "precache-manifest.fe97104c6f86a2d2daaf1509d0067890.js": "/starwarsapp/precache-manifest.fe97104c6f86a2d2daaf1509d0067890.js",
+    "service-worker.js": "/starwarsapp/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/starwarsapp/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.bd941da3.chunk.css.map": "/starwarsapp/static/css/main.bd941da3.chunk.css.map",
+    "static/js/2.2d6e6e8c.chunk.js.LICENSE": "/starwarsapp/static/js/2.2d6e6e8c.chunk.js.LICENSE",
+    "static/media/App.css": "/starwarsapp/static/media/StarJediHollow.f6bc396b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b643c4.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.2d6e6e8c.chunk.js",
+    "static/css/main.bd941da3.chunk.css",
+    "static/js/main.eabe5f27.chunk.js"
+  ]
+}
