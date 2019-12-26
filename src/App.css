@@ -23,6 +23,14 @@ p {
   color: whitesmoke;
 }
 
+.texto {
+  font-style: italic;
+}
+
+.titulo {
+  font-weight: bold;
+}
+
 label {
   font-family: Calibri;
   font-size: 20px;
