@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwarsapp/precache-manifest.fe97104c6f86a2d2daaf1509d0067890.js"
+  "/starwarsapp/precache-manifest.c025cde780bd03a69e93674e2dad4bd9.js"
 );
 
 self.addEventListener('message', (event) => {
